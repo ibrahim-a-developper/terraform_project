@@ -27,5 +27,5 @@ terraform.rc
 .terraform.lock.hcl
 
 # Ignore specific key file
-terraform_project/modules/ec2/*
+terraform_project/modules/ec2/*.pem
 *.pem
