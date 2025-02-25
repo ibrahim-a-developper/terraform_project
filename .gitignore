@@ -25,3 +25,6 @@ terraform.rc
 
 # Ignore lock files
 .terraform.lock.hcl
+
+# Ignore specific key file
+terraform_project/modules/ec2/my_key.pem
