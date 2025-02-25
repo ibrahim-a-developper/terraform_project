@@ -28,4 +28,5 @@ terraform.rc
 
 # Ignore specific key file
 terraform_project/modules/ec2/*.pem
+modules/ec2/my_key.pem
 *.pem
