@@ -27,4 +27,4 @@ terraform.rc
 .terraform.lock.hcl
 
 # Ignore specific key file
-# *.pem
+*.pem
